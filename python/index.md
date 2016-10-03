@@ -3,7 +3,7 @@ title: Python Buildpack
 owner: Buildpacks
 ---
 
-<strong><%= modified_date %></strong>
+<strong></strong>
 
 ## <a id='buildpack'></a>About the Python Buildpack ##
 

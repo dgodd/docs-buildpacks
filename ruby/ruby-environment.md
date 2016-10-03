@@ -3,7 +3,7 @@ title: Environment Variables Defined by the Ruby Buildpack
 owner: Buildpacks
 ---
 
-<strong><%= modified_date %></strong>
+<strong></strong>
 
 When you use the Ruby buildpack, you get three Ruby-specific environment
 variables in addition to the regular [Cloud Foundry environment variables]

@@ -1,9 +1,15 @@
 ---
 title: Merging From an Upstream Buildpack
 owner: Buildpacks
+
+menu:
+  main:
+    Name: "Fred"
+    identifier: "Jane"
+    parent: "Buildpacks"
 ---
 
-<strong><%= modified_date %></strong>
+<strong></strong>
 
 <a id='merge-upstream'></a>
 

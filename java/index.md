@@ -3,7 +3,7 @@ title: Java Buildpack
 owner: Java
 ---
 
-<strong><%= modified_date %></strong>
+<strong></strong>
 
 Use the Java buildpack with applications written in Grails, Play, Spring or any
 other JVM-based language or framework.

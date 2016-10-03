@@ -3,7 +3,7 @@ title: Build Tool Integration
 owner: Java
 ---
 
-<strong><%= modified_date %></strong>
+<strong></strong>
 
 _This page assumes you are using cf CLI v6 and version 1.1.2 of either the Cloud Foundry Maven plugin or the Cloud Foundry Gradle plugin._
 

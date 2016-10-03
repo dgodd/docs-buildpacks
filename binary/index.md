@@ -2,7 +2,7 @@
 title: Binary Buildpack
 ---
 
-<strong><%= modified_date %></strong>
+<strong></strong>
 
 Use the binary buildpack for running arbitrary binary web servers.
 

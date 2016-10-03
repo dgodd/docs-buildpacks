@@ -3,7 +3,7 @@ title: Deploying and Developing PHP Apps
 owner: Buildpacks
 ---
 
-<strong><%= modified_date %></strong>
+<strong></strong>
 
 <%=vars.GSG_intro_sentence%>
 

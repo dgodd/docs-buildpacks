@@ -3,7 +3,7 @@ title: Tips for Java Developers
 owner: Java
 ---
 
-<strong><%= modified_date %></strong>
+<strong></strong>
 
 _This page assumes you are using cf CLI v6._
 

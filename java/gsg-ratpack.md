@@ -3,7 +3,7 @@ title: Getting Started Deploying Ratpack Apps
 owner: Java
 ---
 
-<strong><%= modified_date %></strong>
+<strong></strong>
 
 <%=vars.GSG_intro_sentence%>
 

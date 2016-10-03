@@ -3,7 +3,7 @@ title: Deploy a Sample Ruby on Rails Application
 owner: Buildpacks
 ---
 
-<strong><%= modified_date %></strong>
+<strong></strong>
 
 This topic guides the reader through deploying a sample Ruby on Rails app to <%= vars.product_full %> <%= vars.product_abbr %>.
 

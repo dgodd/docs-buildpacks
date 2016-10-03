@@ -3,7 +3,7 @@ title: Staticfile Buildpack
 owner: Buildpacks
 ---
 
-<strong><%= modified_date %></strong>
+<strong></strong>
 
 Use the Staticfile buildpack with front-end only web apps or demos.
 

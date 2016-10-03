@@ -3,7 +3,7 @@ title: Ruby Buildpack
 owner: Buildpacks
 ---
 
-<strong><%= modified_date %></strong>
+<strong></strong>
 
 Use the Ruby buildpack with Ruby, Rack, Rails or Sinatra applications.
 

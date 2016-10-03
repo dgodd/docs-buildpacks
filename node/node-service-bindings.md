@@ -3,7 +3,7 @@ title: Configure Service Connections for Node.js
 owner: Buildpacks
 ---
 
-<strong><%= modified_date %></strong>
+<strong></strong>
 
 _This page assumes that you are using cf CLI v6._
 

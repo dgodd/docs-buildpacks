@@ -3,7 +3,7 @@ title: Environment Variables Defined by the Node Buildpack
 owner: Buildpacks
 ---
 
-<strong><%= modified_date %></strong>
+<strong></strong>
 
 When you use the Node buildpack, you get three Node-specific environment
 variables in addition to the regular [Cloud Foundry environment variables]

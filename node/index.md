@@ -3,7 +3,7 @@ title: Node.js Buildpack
 owner: Buildpacks
 ---
 
-<strong><%= modified_date %></strong>
+<strong></strong>
 
 Use the Node.js buildpack with Node or JavaScript applications.
 

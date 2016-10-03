@@ -3,7 +3,7 @@ title: Getting Started Deploying Ruby on Rails Apps
 owner: Buildpacks
 ---
 
-<strong><%= modified_date %></strong>
+<strong></strong>
 
 <%=vars.GSG_intro_sentence%>
 

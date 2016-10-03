@@ -3,7 +3,7 @@ title: Go Buildpack
 owner: Buildpacks
 ---
 
-<strong><%= modified_date %></strong>
+<strong></strong>
 
 ## <a id='buildpack'></a>Using the Go Buildpack ##
 

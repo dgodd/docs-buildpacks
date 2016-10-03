@@ -3,7 +3,7 @@ title: PHP Buildpack Configuration
 owner: Buildpacks
 ---
 
-<strong><%= modified_date %></strong>
+<strong></strong>
 
 ## <a id="defaults"></a> Defaults
 

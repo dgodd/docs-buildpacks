@@ -3,7 +3,7 @@ title: Custom Buildpacks
 owner: Buildpacks
 ---
 
-<strong><%= modified_date %></strong>
+<strong></strong>
 
 Buildpacks are a convenient way of packaging framework and/or runtime support
 for your application.

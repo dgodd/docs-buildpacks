@@ -3,7 +3,7 @@ title: Buildpack Detection
 owner: Buildpacks
 ---
 
-<strong><%= modified_date %></strong>
+<strong></strong>
 
 When you push an app, Cloud Foundry determines which buildpack to use.
 Each buildpack has a position in the detection priority list.

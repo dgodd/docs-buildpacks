@@ -3,7 +3,7 @@ title: Cloud Foundry Eclipse Plugin
 owner: Java
 ---
 
-<strong><%= modified_date %></strong>
+<strong></strong>
 
 The Cloud Foundry Eclipse Plugin is an extension that enables Cloud Foundry
 users to deploy and manage Java and Spring applications on a Cloud Foundry

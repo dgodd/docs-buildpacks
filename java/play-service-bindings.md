@@ -3,7 +3,7 @@ title: Configure Service Connections for Play Framework
 owner: Java
 ---
 
-<strong><%= modified_date %></strong>
+<strong></strong>
 
 Cloud Foundry provides support for connecting a Play Framework application to services such as MySQL and Postgres. In many cases, a Play Framework application running on Cloud Foundry can automatically detect and configure connections to services.
 
