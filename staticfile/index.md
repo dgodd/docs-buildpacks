@@ -1,9 +1,14 @@
 ---
 title: Staticfile Buildpack
 owner: Buildpacks
+menu:
+  main:
+    Name: Staticfile Buildpack
+    identifier: buildpacks/staticfile
+    parent: buildpacks
 ---
 
-<strong></strong>
+
 
 Use the Staticfile buildpack with front-end only web apps or demos.
 

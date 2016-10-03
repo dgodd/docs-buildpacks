@@ -1,9 +1,14 @@
 ---
 title: Node.js Buildpack
 owner: Buildpacks
+menu:
+  main:
+    Name: Node.js Buildpack
+    identifier: buildpacks/node
+    parent: buildpacks
 ---
 
-<strong></strong>
+
 
 Use the Node.js buildpack with Node or JavaScript applications.
 

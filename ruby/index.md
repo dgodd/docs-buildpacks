@@ -1,9 +1,14 @@
 ---
 title: Ruby Buildpack
 owner: Buildpacks
+menu:
+  main:
+    Name: Ruby Buildpack
+    identifier: buildpacks/ruby
+    parent: buildpacks
 ---
 
-<strong></strong>
+
 
 Use the Ruby buildpack with Ruby, Rack, Rails or Sinatra applications.
 

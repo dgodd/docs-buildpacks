@@ -1,9 +1,14 @@
 ---
 title: Packaging Dependencies for Offline Buildpacks
 owner: Buildpacks
+menu:
+  main:
+    Name: Packaging Dependencies for Offline Buildpacks
+    identifier: buildpacks/depend-pkg-offline
+    parent: buildpacks
 ---
 
-<strong></strong>
+
 
 This topic describes the dependency storage options available to developers creating custom offline buildpacks.
 

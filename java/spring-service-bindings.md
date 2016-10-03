@@ -1,9 +1,14 @@
 ---
 title: Configure Service Connections for Spring
 owner: Java
+menu:
+  main:
+    Name: Configure Service Connections for Spring
+    identifier: buildpacks/java/spring-service-bindings
+    parent: buildpacks/java
 ---
 
-<strong></strong>
+
 
 Cloud Foundry provides extensive support for connecting a Spring application to services such as MySQL, PostgreSQL, MongoDB, Redis, and RabbitMQ. In many cases, Cloud Foundry can automatically configure a Spring application without any code changes. For more advanced cases, you can control service connection parameters yourself.
 

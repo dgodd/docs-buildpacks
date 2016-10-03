@@ -1,9 +1,14 @@
 ---
 title: Configure Service Connections for Ruby
 owner: Buildpacks
+menu:
+  main:
+    Name: Configure Service Connections for Ruby
+    identifier: buildpacks/ruby/ruby-service-bindings
+    parent: buildpacks/ruby
 ---
 
-<strong></strong>
+
 
 _This page assumes that you are using cf CLI v6._
 

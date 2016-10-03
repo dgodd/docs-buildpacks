@@ -1,9 +1,14 @@
 ---
 title: Deploy a Sample Ruby on Rails Application
 owner: Buildpacks
+menu:
+  main:
+    Name: Deploy a Sample Ruby on Rails Application
+    identifier: buildpacks/ruby/sample-ror
+    parent: buildpacks/ruby
 ---
 
-<strong></strong>
+
 
 This topic guides the reader through deploying a sample Ruby on Rails app to <%= vars.product_full %> <%= vars.product_abbr %>.
 

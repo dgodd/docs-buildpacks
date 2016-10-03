@@ -1,9 +1,14 @@
 ---
 title: Composer
 owner: Buildpacks
+menu:
+  main:
+    Name: Composer
+    identifier: buildpacks/php/gsg-php-composer
+    parent: buildpacks/php
 ---
 
-<strong></strong>
+
 
 Composer is activated when you supply a `composer.json` or `composer.lock` file. A `composer.lock` is not required, but is strongly recommended for consistent deployments.
 

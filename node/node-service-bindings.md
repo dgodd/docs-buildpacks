@@ -1,9 +1,14 @@
 ---
 title: Configure Service Connections for Node.js
 owner: Buildpacks
+menu:
+  main:
+    Name: Configure Service Connections for Node.js
+    identifier: buildpacks/node/node-service-bindings
+    parent: buildpacks/node
 ---
 
-<strong></strong>
+
 
 _This page assumes that you are using cf CLI v6._
 

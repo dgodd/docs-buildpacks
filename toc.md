@@ -1,6 +1,11 @@
 ---
 title: Buildpacks
 owner: Buildpacks
+menu:
+  main:
+    Name: Buildpacks
+    identifier: buildpacks/toc
+    parent: buildpacks
 ---
 
 * [Buildpacks Overview](./index.html)

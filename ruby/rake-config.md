@@ -1,9 +1,14 @@
 ---
 title: Configure Rake Tasks for Deployed Apps
 owner: Buildpacks
+menu:
+  main:
+    Name: Configure Rake Tasks for Deployed Apps
+    identifier: buildpacks/ruby/rake-config
+    parent: buildpacks/ruby
 ---
 
-<strong></strong>
+
 
 For <%=vars.product_short%> to automatically invoke a Rake task while a Ruby or Ruby on Rails app is deployed, you must:
 

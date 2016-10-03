@@ -1,9 +1,14 @@
 ---
 title: Cloud Foundry Java Client Library
 owner: Java
+menu:
+  main:
+    Name: Cloud Foundry Java Client Library
+    identifier: buildpacks/java/java-client
+    parent: buildpacks/java
 ---
 
-<strong></strong>
+
 
 ## <a id='introduction'></a>Introduction ##
 This is a guide to using the Cloud Foundry Java Client Library to manage an account on a Cloud Foundry instance.

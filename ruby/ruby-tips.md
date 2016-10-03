@@ -1,9 +1,14 @@
 ---
 title: Tips for Ruby Developers
 owner: Buildpacks
+menu:
+  main:
+    Name: Tips for Ruby Developers
+    identifier: buildpacks/ruby/ruby-tips
+    parent: buildpacks/ruby
 ---
 
-<strong></strong>
+
 
 _This page assumes you are using cf CLI v6._
 

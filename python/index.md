@@ -1,9 +1,14 @@
 ---
 title: Python Buildpack
 owner: Buildpacks
+menu:
+  main:
+    Name: Python Buildpack
+    identifier: buildpacks/python
+    parent: buildpacks
 ---
 
-<strong></strong>
+
 
 ## <a id='buildpack'></a>About the Python Buildpack ##
 

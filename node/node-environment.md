@@ -1,9 +1,14 @@
 ---
 title: Environment Variables Defined by the Node Buildpack
 owner: Buildpacks
+menu:
+  main:
+    Name: Environment Variables Defined by the Node Buildpack
+    identifier: buildpacks/node/node-environment
+    parent: buildpacks/node
 ---
 
-<strong></strong>
+
 
 When you use the Node buildpack, you get three Node-specific environment
 variables in addition to the regular [Cloud Foundry environment variables]

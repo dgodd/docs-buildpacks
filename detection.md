@@ -1,9 +1,14 @@
 ---
 title: Buildpack Detection
 owner: Buildpacks
+menu:
+  main:
+    Name: Buildpack Detection
+    identifier: buildpacks/detection
+    parent: buildpacks
 ---
 
-<strong></strong>
+
 
 When you push an app, Cloud Foundry determines which buildpack to use.
 Each buildpack has a position in the detection priority list.

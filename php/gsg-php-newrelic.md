@@ -1,9 +1,14 @@
 ---
 title: New Relic
 owner: Buildpacks
+menu:
+  main:
+    Name: New Relic
+    identifier: buildpacks/php/gsg-php-newrelic
+    parent: buildpacks/php
 ---
 
-<strong></strong>
+
 
 [New Relic](http://newrelic.com/) collects analytics about application and client-side performance.
 

@@ -1,8 +1,13 @@
 ---
 title: Binary Buildpack
+menu:
+  main:
+    Name: Binary Buildpack
+    identifier: buildpacks/binary
+    parent: buildpacks
 ---
 
-<strong></strong>
+
 
 Use the binary buildpack for running arbitrary binary web servers.
 

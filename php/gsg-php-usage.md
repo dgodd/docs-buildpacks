@@ -1,9 +1,14 @@
 ---
 title: Deploying and Developing PHP Apps
 owner: Buildpacks
+menu:
+  main:
+    Name: Deploying and Developing PHP Apps
+    identifier: buildpacks/php/gsg-php-usage
+    parent: buildpacks/php
 ---
 
-<strong></strong>
+
 
 <%=vars.GSG_intro_sentence%>
 

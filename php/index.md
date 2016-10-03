@@ -1,9 +1,14 @@
 ---
 title: PHP Buildpack
 owner: Buildpacks
+menu:
+  main:
+    Name: PHP Buildpack
+    identifier: buildpacks/php
+    parent: buildpacks
 ---
 
-<strong></strong>
+
 
 Use the PHP buildpack with PHP or HHVM runtimes.
 

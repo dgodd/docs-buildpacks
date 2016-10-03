@@ -1,15 +1,14 @@
 ---
 title: Merging From an Upstream Buildpack
 owner: Buildpacks
-
 menu:
   main:
-    Name: "Fred"
-    identifier: "Jane"
-    parent: "Buildpacks"
+    Name: Merging From an Upstream Buildpack
+    identifier: buildpacks/merging
+    parent: buildpacks
 ---
 
-<strong></strong>
+
 
 <a id='merge-upstream'></a>
 

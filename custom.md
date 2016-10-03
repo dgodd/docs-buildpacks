@@ -1,9 +1,14 @@
 ---
 title: Custom Buildpacks
 owner: Buildpacks
+menu:
+  main:
+    Name: Custom Buildpacks
+    identifier: buildpacks/custom
+    parent: buildpacks
 ---
 
-<strong></strong>
+
 
 Buildpacks are a convenient way of packaging framework and/or runtime support
 for your application.

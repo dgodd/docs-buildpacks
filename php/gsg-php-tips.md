@@ -1,9 +1,14 @@
 ---
 title: Tips for PHP Developers
 owner: Buildpacks
+menu:
+  main:
+    Name: Tips for PHP Developers
+    identifier: buildpacks/php/gsg-php-tips
+    parent: buildpacks/php
 ---
 
-<strong></strong>
+
 
 ## <a id='buildpack'></a>About the PHP Buildpack ##
 

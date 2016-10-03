@@ -1,9 +1,14 @@
 ---
 title: Go Buildpack
 owner: Buildpacks
+menu:
+  main:
+    Name: Go Buildpack
+    identifier: buildpacks/go
+    parent: buildpacks
 ---
 
-<strong></strong>
+
 
 ## <a id='buildpack'></a>Using the Go Buildpack ##
 

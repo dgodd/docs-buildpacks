@@ -1,9 +1,14 @@
 ---
 title: Cloud Foundry Eclipse Plugin
 owner: Java
+menu:
+  main:
+    Name: Cloud Foundry Eclipse Plugin
+    identifier: buildpacks/java/sts
+    parent: buildpacks/java
 ---
 
-<strong></strong>
+
 
 The Cloud Foundry Eclipse Plugin is an extension that enables Cloud Foundry
 users to deploy and manage Java and Spring applications on a Cloud Foundry

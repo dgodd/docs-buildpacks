@@ -1,9 +1,14 @@
 ---
 title: Getting Started Deploying Spring Apps
 owner: Java
+menu:
+  main:
+    Name: Getting Started Deploying Spring Apps
+    identifier: buildpacks/java/gsg-spring
+    parent: buildpacks/java
 ---
 
-<strong></strong>
+
 
 <%=vars.GSG_intro_sentence%>
 

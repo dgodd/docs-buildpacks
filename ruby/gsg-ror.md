@@ -1,9 +1,14 @@
 ---
 title: Getting Started Deploying Ruby on Rails Apps
 owner: Buildpacks
+menu:
+  main:
+    Name: Getting Started Deploying Ruby on Rails Apps
+    identifier: buildpacks/ruby/gsg-ror
+    parent: buildpacks/ruby
 ---
 
-<strong></strong>
+
 
 <%=vars.GSG_intro_sentence%>
 

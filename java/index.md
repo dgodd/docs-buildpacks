@@ -1,9 +1,14 @@
 ---
 title: Java Buildpack
 owner: Java
+menu:
+  main:
+    Name: Java Buildpack
+    identifier: buildpacks/java
+    parent: buildpacks
 ---
 
-<strong></strong>
+
 
 Use the Java buildpack with applications written in Grails, Play, Spring or any
 other JVM-based language or framework.

@@ -1,9 +1,14 @@
 ---
 title: Supported Binary Dependencies
 owner: Buildpacks
+menu:
+  main:
+    Name: Supported Binary Dependencies
+    identifier: buildpacks/supported-binary-dependencies
+    parent: buildpacks
 ---
 
-<strong></strong>
+
 
 Each buildpack only supports the stable patches for each dependency listed in the buildpack's `manifest.yml` and also in its GitHub releases page.
 For example, see the [php-buildpack releases page](https://github.com/cloudfoundry/php-buildpack/releases).

@@ -1,9 +1,14 @@
 ---
 title: Getting Started Deploying Ruby Apps
 owner: Buildpacks
+menu:
+  main:
+    Name: Getting Started Deploying Ruby Apps
+    identifier: buildpacks/ruby/gsg-ruby
+    parent: buildpacks/ruby
 ---
 
-<strong></strong>
+
 
 <%=vars.GSG_intro_sentence%>
 

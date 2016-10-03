@@ -1,9 +1,14 @@
 ---
 title: Tips for Node.js Applications
 owner: Buildpacks
+menu:
+  main:
+    Name: Tips for Node.js Applications
+    identifier: buildpacks/node/node-tips
+    parent: buildpacks/node
 ---
 
-<strong></strong>
+
 
 _This page assumes you are using cf CLI v6._
 

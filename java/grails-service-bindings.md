@@ -1,9 +1,14 @@
 ---
 title: Configure Service Connections for Grails
 owner: Java
+menu:
+  main:
+    Name: Configure Service Connections for Grails
+    identifier: buildpacks/java/grails-service-bindings
+    parent: buildpacks/java
 ---
 
-<strong></strong>
+
 
 Cloud Foundry provides extensive support for connecting a Grails application to
 services such as MySQL, Postgres, MongoDB, Redis, and RabbitMQ.

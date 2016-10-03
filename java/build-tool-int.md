@@ -1,9 +1,14 @@
 ---
 title: Build Tool Integration
 owner: Java
+menu:
+  main:
+    Name: Build Tool Integration
+    identifier: buildpacks/java/build-tool-int
+    parent: buildpacks/java
 ---
 
-<strong></strong>
+
 
 _This page assumes you are using cf CLI v6 and version 1.1.2 of either the Cloud Foundry Maven plugin or the Cloud Foundry Gradle plugin._
 

@@ -1,9 +1,14 @@
 ---
 title: Tips for Java Developers
 owner: Java
+menu:
+  main:
+    Name: Tips for Java Developers
+    identifier: buildpacks/java/java-tips
+    parent: buildpacks/java
 ---
 
-<strong></strong>
+
 
 _This page assumes you are using cf CLI v6._
 

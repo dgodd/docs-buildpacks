@@ -1,9 +1,14 @@
 ---
 title: PHP Buildpack Configuration
 owner: Buildpacks
+menu:
+  main:
+    Name: PHP Buildpack Configuration
+    identifier: buildpacks/php/gsg-php-config
+    parent: buildpacks/php
 ---
 
-<strong></strong>
+
 
 ## <a id="defaults"></a> Defaults
 

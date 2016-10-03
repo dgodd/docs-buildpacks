@@ -1,9 +1,14 @@
 ---
 title: Getting Started Deploying Grails Apps
 owner: Java
+menu:
+  main:
+    Name: Getting Started Deploying Grails Apps
+    identifier: buildpacks/java/gsg-grails
+    parent: buildpacks/java
 ---
 
-<strong></strong>
+
 
 <%=vars.GSG_intro_sentence%>
 

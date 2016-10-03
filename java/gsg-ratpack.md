@@ -1,9 +1,14 @@
 ---
 title: Getting Started Deploying Ratpack Apps
 owner: Java
+menu:
+  main:
+    Name: Getting Started Deploying Ratpack Apps
+    identifier: buildpacks/java/gsg-ratpack
+    parent: buildpacks/java
 ---
 
-<strong></strong>
+
 
 <%=vars.GSG_intro_sentence%>
 

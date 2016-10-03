@@ -1,9 +1,14 @@
 ---
 title: Configure a Production Server for Ruby Apps
 owner: Buildpacks
+menu:
+  main:
+    Name: Configure a Production Server for Ruby Apps
+    identifier: buildpacks/ruby/ruby-prod-server
+    parent: buildpacks/ruby
 ---
 
-<strong></strong>
+
 
 <%=vars.product_short%> uses the default standard Ruby web server library WEBrick for Ruby and RoR apps. However, <%=vars.product_short%> can support a more robust production web server, such as Phusion Passenger, Puma, Thin, or Unicorn.
 
